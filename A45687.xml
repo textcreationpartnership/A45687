@@ -1,0 +1,432 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon on the decease of Mr. Hanserd Knollis, minister of the Gospel Preached at Pinners-Hall, Octob. 4. 1691. By Tho. Harrison.</title>
+            <author>Harrison, Thomas, fl. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45687</idno>
+            <idno type="STC">Wing H911</idno>
+            <idno type="STC">ESTC R221275</idno>
+            <idno type="EEBO-CITATION">99832608</idno>
+            <idno type="PROQUEST">99832608</idno>
+            <idno type="VID">37082</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37082)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2147:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon on the decease of Mr. Hanserd Knollis, minister of the Gospel Preached at Pinners-Hall, Octob. 4. 1691. By Tho. Harrison.</title>
+                  <author>Harrison, Thomas, fl. 1700.</author>
+               </titleStmt>
+               <extent>70, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for H. Barnard, at the Bible in the Poultrey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final errata leaf.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in Dr. Williams' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Knollys, Hanserd, 1599?-1691 --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2013-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37082:1"/>
+            <pb facs="tcp:37082:1" rendition="simple:additions"/>
+            <p>A SERMON On the Deceaſe of Mr. <hi>Hanſerd Knollis,</hi> Miniſter of the Goſpel. Preached at <hi>Pinners-Hall,</hi> Octob. 4. 1691.</p>
+            <p>By <hi>Tho. Harriſon.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Rev. XIV. 13.</hi>
+               </bibl>
+               <p>And I heard a Voice from Heaven, ſaying unto me, Write, Bleſſed are the dead which die in the Lord from henceforth: Yea, ſaith the Spirit, that they may reſt from their labours, and their Works do follow them.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>H. Barnard,</hi> at the <hi>Bible</hi> in the <hi>Poultrey.</hi> 1694.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37082:2"/>
+            <pb facs="tcp:37082:2"/>
+            <head>THE Epiſtle to the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>I Do not Intitle the following Diſcourſe, Mr. <hi>Knollis's</hi> Fu<g ref="char:EOLhyphen"/>neral Sermon, becauſe that was Preach't to his own Congregation by a Perſon far more eminent than my ſelf; But it was a Ser<g ref="char:EOLhyphen"/>mon which I voluntarily Preach<g ref="char:EOLhyphen"/>ed upon the occaſion of his de<g ref="char:EOLhyphen"/>ceaſe, in that morning Lecture at <hi>Pinners-Hall,</hi> which was firſt erected by him; and wherein I have ground to hope he Labour'd with great ſucceſs, as well as ac<g ref="char:EOLhyphen"/>ceptance. Soon after this Sermon came from the Pulpit, ſome were deſirous that I would ſend it to the Preſs; But I was not then willing to appear in ſo publick a manner upon the ſtage of the
+<pb facs="tcp:37082:3"/> World. It is at last brought out of my ſtudy (wherein I deſign'd that it ſhould have lain all my days with the reſt of my unpoliſh't Pa<g ref="char:EOLhyphen"/>pers) by the request and encour<g ref="char:EOLhyphen"/>agement of ſome Friends, to pub<g ref="char:EOLhyphen"/>lick view. I must expect the Com<g ref="char:EOLhyphen"/>mon Lot of ſuch mean Authors as my ſelf, and which ſometimes hath been the Portion of others, of a higher rank, to have both my Per<g ref="char:EOLhyphen"/>ſon and my Book Cenſured and Condemn'd, But however if God ſhall be Pleas'd to bleſs this little piece to the good of one Soul, I ſhall have no cauſe to repent its publication.</p>
+            <p>That thou may'st reap ſome ſpiritual advantage therefrom is the Prayer of,</p>
+            <closer>
+               <signed>Thine in the Lord<lb/> 
+                  <hi>T. H.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:37082:3"/>
+            <head>A <hi>SERMON</hi> On the Deceaſe of <hi>Mr:</hi> Hanſerd Knollis.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Zech. l. v. 5. latter part.</hi>
+                  </bibl>
+                  <p>And the Prophets, do they live for ever?</p>
+               </q>
+            </epigraph>
+            <p>WHat frequent Conqueſts doth the King of <hi>Ter<g ref="char:EOLhyphen"/>rours</hi> gain over the Children of Men! Man goes continually to his long home, and the Mourners walk about the ſtreets. Men of all ages, ranks and degrees are
+<pb n="6" facs="tcp:37082:4"/> led away into Deaths gloomy Territories. One would think that if any could plead an ex<g ref="char:EOLhyphen"/>emption therefrom, it ſhould be they who are in the higheſt place and office in the Church of Chriſt; That if any could be diſcharged in this warfare, it ſhould be they whoſe work it is to ſubdue Rebellious ſinners unto Chriſt: That if any could be delivered from going down to the dark grave, it ſhould be they who are the lights of the World; That they, if any, ſhould eſcape the houſe of ſilence; who are to convey the Joyful ſound of the ever bleſſed Goſpel to the ears of men. But yet they muſt dye as well as others; for the Prophets, do they live for ever? Before I come to the words of my Text, I ſhall give you a brief account of the occa<g ref="char:EOLhyphen"/>ſion
+<pb n="7" facs="tcp:37082:4"/> of them. When God had wrought out an unexpected and Miraculous deliverance, for the <hi>Jews</hi> from their <hi>Babylonian Captivity,</hi> and brought them again into their own Land, from whence they had been ex<g ref="char:EOLhyphen"/>iled ſeventy years; He was pleaſed to ſend the Prophet <hi>Zechariah</hi> (having not long be<g ref="char:EOLhyphen"/>fore ſent <hi>Haggai</hi>) to them, to excite and ſtir them up to thoſe duties which were at that time Incumbent on them; In <hi>v.</hi> 3. of this <hi>Ch.</hi> the Prophet gives a ſummary account of that meſſage which he was Commanded to deliver from the Lord of the Prophets to them; <hi>Thus ſaith the Lord of Hosts, return unto me;</hi> which Command is enforc't with a gracious Promiſe, that if they did ſo, God would return unto them. Our return to God in
+<pb n="8" facs="tcp:37082:5"/> a way of duty, is the moſt likely means to obtain his return to us in a way of grace and mercy.</p>
+            <p>And for as much as this Peo<g ref="char:EOLhyphen"/>ple were very prone to Imitate the evil examples of their <hi>Pro<g ref="char:EOLhyphen"/>genitours,</hi> and to follow them, in thoſe crooked ways which they walked in; he <hi>verſe</hi> 4. Cautions them againſt an Imita<g ref="char:EOLhyphen"/>tion of their Forefathers in their Impenitency and Contu<g ref="char:EOLhyphen"/>macy. And this he enforceth by an Argument taken from the dreadful event thereof, in the former part of this 5th <hi>ver.</hi> Your fathers, where are they? q. d. they are not, for they are ſaid not to be, who are departed out of the Land of the Living; and made free among the dead, <hi>Jer.</hi> 31.15. <hi>v.</hi> q. d. Your fa<g ref="char:EOLhyphen"/>thers have been Conſumed and deſtroyed by fire, ſword and
+<pb n="9" facs="tcp:37082:5"/> Peſtilence; they have been made dreadful examples of God's diſpleaſure againſt ſtubborn and impenitent ſinners; and their ruine ſhould be a warning to you, leaſt treading in their ſteps, ye ſhould undergo the ſame puniſhment with them. And ſays he in the words of my Text, the Prophets, do they live for ever? The ſcope and deſign of theſe words is (and according to the Judgment of expoſitors) to di<g ref="char:EOLhyphen"/>ſtinguiſh between the Perſons of the Prophets, and thoſe things which were in the name of God delivered by them. He here ſpeaks by way of Conceſſion, for this Interrogation carries a negation in it, and amounts to a Negative Propoſition q. d. the Prophets do not live for ever; But tho they dye, it may be, before their Predictions are
+<pb n="10" facs="tcp:37082:6"/> fulfilled, yet they ſhall certainly be Accompliſhed; as you may ſee, if you compare theſe words with the following verſe. But I ſhall no farther conſider the words relatively, with reſpect to the Context, but abſolutely in themſelves, as they are a nega<g ref="char:EOLhyphen"/>tive Propoſition, wherein we may conſider, Firſt, the ſubject, the Prophets. Secondly, the Pre<g ref="char:EOLhyphen"/>dicate, do not live for ever.</p>
+            <p n="1">1. The ſubject, The Prophets, with reſpect unto which expo<g ref="char:EOLhyphen"/>ſitors are divided in their opi<g ref="char:EOLhyphen"/>nions.</p>
+            <p n="1">1. Some hereby underſtand the falſe Prophets, who came when God did not ſend them, and delivered thoſe things in his name, which they never re<g ref="char:EOLhyphen"/>ceived from him. Who endea<g ref="char:EOLhyphen"/>voured to pleaſe, rather than to profit the People; ſowing
+<pb n="11" facs="tcp:37082:6"/> Pillows under their Elbows, and crying Peace, Peace, when deſtruction was haſtily march<g ref="char:EOLhyphen"/>ing towards them. But,</p>
+            <p>Secondly, With others I con<g ref="char:EOLhyphen"/>ceive we are hereby to under<g ref="char:EOLhyphen"/>ſtand the true Prophets, who received their miſſion from God, and acted according to that Commiſſion which he had giv<g ref="char:EOLhyphen"/>en them. God at ſundry times and in Divers manners ſpake by the Old Teſtament Church by the Prophets, <hi>Heb.</hi> 1.1. <hi>v.</hi> He made great Revelations and diſcoveries of his mind and will unto them; which they, by vir<g ref="char:EOLhyphen"/>tue of their office, were oblig<g ref="char:EOLhyphen"/>ed to declare unto the Peo<g ref="char:EOLhyphen"/>ple. But under this title are comprehended, not only the extraordinary, but the ordina<g ref="char:EOLhyphen"/>ry Miniſters, both of the old and new Teſtament. Thus <hi>Mat.</hi> 10.
+<pb n="12" facs="tcp:37082:7"/> 41. <hi>He that receiveth a Prophet in the name of a Prophet, ſhall re<g ref="char:EOLhyphen"/>ceive a Prophets reward, Luk.</hi> 11.49. <hi>v.</hi> Though the or<g ref="char:EOLhyphen"/>dinary Miniſters of the new Teſtament<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, are not now to exerciſe that part of the Pro<g ref="char:EOLhyphen"/>phetical office, which conſiſted in the Prediction of Future events; yet there are other parts of this office, <hi>viz.</hi> More clearly to unfold and explain the mind and will of God con<g ref="char:EOLhyphen"/>tain'd in his word, to Reprove for ſin, and excite to duty; which appertain to them.</p>
+            <p>Secondly the Predicate, do not live for ever. There is a threefold life whereof we read in the holy Scripture, <hi>viz.</hi> A Temporal life, or a life of na<g ref="char:EOLhyphen"/>ture; a Spiritual life, or a life of Grace; and an Eternal life, or a
+<pb n="13" facs="tcp:37082:7"/> life of Glory.</p>
+            <p>In the two <hi>latter</hi> ſences, <hi>the faithful Prophets of God, ſhall live for ever.</hi>
+            </p>
+            <p>The life of grace which they are partakers of here, ſhall never be deſtroyed, but <hi>will</hi> terminate in a Life of <hi>Glory,</hi> and that <hi>Life of Glory</hi> which the Saints ſhall live above, <hi>will</hi> be of an <hi>everlaſting</hi> duration. But the Spirit of God in the words of my text ſpeaks of a <hi>Temporal Life,</hi> or a Life of nature, to which a Period muſt be put.</p>
+            <p>In this ſence, the Prophets do not live for ever. From the words thus explained, I ſhall preſent you with the <hi>following obſer<g ref="char:EOLhyphen"/>vation.</hi>
+            </p>
+            <pb n="14" facs="tcp:37082:8"/>
+            <p>
+               <hi>Doct.</hi> That they who mini<g ref="char:EOLhyphen"/>ſter about holy things, are not exempted from a <hi>Temporal</hi> Death.</p>
+            <p>Or, That miniſters are <hi>liable</hi> to, and muſt undergo a <hi>Temporal</hi> Death. The Prophets, do they live for ever? <hi>If they do not live for ever, they muſt certainly die.</hi>
+            </p>
+            <p>I need not Inſiſt long upon the Proof of ſuch an undeniable Propoſition. Have not all God's Miniſters, who lived in Pre<g ref="char:EOLhyphen"/>ceeding ages, <hi>fallen</hi> by the ſtroke of Death? Is not <hi>Moſes</hi> gone to the Houſe appointed for <hi>all liv<g ref="char:EOLhyphen"/>ing,</hi> who is ſtiled the Prophet, by way of eminence. <hi>Hoſea</hi> 12.13. <hi>Who was the Prince of the old Teſtament Prophets; an emi<g ref="char:EOLhyphen"/>nent type of the Great Apoſtle of our Profeſſion, with Reſpect to his
+<pb n="15" facs="tcp:37082:8"/> Prophetical Office, as appears from, Deut.</hi> 18.18. Compared with Act. 3.22. <hi>What is become of that famous Prophet who came in the ſpirit and Power of</hi> Elias, <hi>who was the Morning Star that uſher<g ref="char:EOLhyphen"/>ed the Sun of Righteouſneſs into this World; did not he ſet in a Gloomy night of Death?</hi> Where are the Apoſtles of our Lord, thoſe <hi>He<g ref="char:EOLhyphen"/>raulds</hi> that firſt Proclaimed the glad tidings of Peace, to the Rebellious world; are not they gone down to the dark and ſi<g ref="char:EOLhyphen"/>lent grave? Do not we frequent<g ref="char:EOLhyphen"/>ly ſee the King of terrours hew<g ref="char:EOLhyphen"/>ing down thoſe who are Pillars in <hi>Jehovah's</hi> Temple, with his fatal Ax. In the farther Pro<g ref="char:EOLhyphen"/>ſecution of this Point, I ſhall proceed in the enſuing method.</p>
+            <p n="1">1. To ſhew you more parti<g ref="char:EOLhyphen"/>cularly what that Death is, which they who Miniſter about
+<pb n="16" facs="tcp:37082:9"/> holy things are liable to, and muſt certainly undergo.</p>
+            <p n="2">2. To aſſign ſome general Reaſons, why they muſt die as well as other men.</p>
+            <p n="3">3. To aſſign ſome particular and ſpecial Reaſons of their death.</p>
+            <p n="4">4. To give you ſome Account of the time when God uſually <hi>calls</hi> them out of this world.</p>
+            <p n="5">5. To make ſome Improve<g ref="char:EOLhyphen"/>ment and <hi>Application</hi> of the whole.</p>
+            <p n="1">1. I ſhall ſhew you more <hi>particularly,</hi> what that Death is, which they who Miniſter about holy things are liable to, and muſt undergo. 1. Negatively. Nei<g ref="char:EOLhyphen"/>ther they nor any of the Chil<g ref="char:EOLhyphen"/>dren of men are <hi>liable</hi> to, or <hi>ſhall</hi> undergo a <hi>natural</hi> death of the <hi>Soul.</hi> Though the <hi>Souls</hi> of wicked men are ſubject to a
+<pb n="17" facs="tcp:37082:9"/> 
+               <hi>Moral</hi> Death, which Conſiſts in a Privation of felicity and bleſ<g ref="char:EOLhyphen"/>ſedneſs, yet they are not ſubject to a Phyſical Death, which Con<g ref="char:EOLhyphen"/>ſiſts in a Privation of Exiſtence, or Life; when men die, their <hi>Souls</hi> depart from their Bodies, they do not die, or ſleep with their Bodies. When their Bo<g ref="char:EOLhyphen"/>dies return to the Earth from whence they came, Their Souls return to that God as a Judge, from whom they came forth as a Creatour. Otherwiſe it would be in the Power of man to kill the <hi>ſoul</hi> as <hi>well</hi> as the Body, which our Saviour denies, <hi>Math.</hi> 10.28. <hi>Fear not them which can kill the Body, but cannot kill the Soul.</hi> Death's fatal dart cannot pierce this Immortal Being. Death may break the Cabinets, but can<g ref="char:EOLhyphen"/>not touch that rich Jewel, which is Incloſed therein: It
+<pb n="18" facs="tcp:37082:10"/> diſſolves that earthly Taberna<g ref="char:EOLhyphen"/>cle wherein the <hi>Soul</hi> reſides, but cannot deſtroy it's noble Inha<g ref="char:EOLhyphen"/>bitant. The <hi>Soul is a ſpiritual Immaterial,</hi> and therefore an <hi>Im<g ref="char:EOLhyphen"/>mortal Everliving</hi> ſubſtance. If the <hi>Soul</hi> ſleeps with the Body, I know not how our Lord's Promiſe to the Penitent theif, <hi>This day ſhalt thou be with me in Paradiſe, Luk.</hi> 23.43. could be accompliſh't; nor what Rea<g ref="char:EOLhyphen"/>ſon can be aſſign'd for the <hi>Apo<g ref="char:EOLhyphen"/>ſtle Paul's</hi> deſire ſpeedily to de<g ref="char:EOLhyphen"/>part out of the world, <hi>Phil.</hi> 1.23.</p>
+            <p>
+               <hi>I might produce many Argu<g ref="char:EOLhyphen"/>ments to eſtabliſh this aſſertion; But I cannot enter upon a large diſcuſſion of this controverſy at this time.</hi>
+            </p>
+            <p n="2">2. Affirmatively, There is a two fold death which they who Miniſter about holy things are
+<pb n="19" facs="tcp:37082:10"/> 
+               <hi>liable</hi> to, and muſt undergo as <hi>well</hi> as other men, <hi>viz.</hi> A death of the man, and a death of the Body.</p>
+            <p n="1">1. A death of the man: Which Conſiſts in a ſeparation of the <hi>Soul</hi> from the Body. As the union of the <hi>Soul</hi> with the Body is the Life of the man: So the ſeparation of the <hi>Soul</hi> from the Body is the death of the man. When the Soul is Joyned to the Body we begin to live; when it is divorced from the Body, then, we die. Death's fatal ſtroke breaks in ſunder the Ligament where<g ref="char:EOLhyphen"/>with the <hi>Soul</hi> and Body are ty<g ref="char:EOLhyphen"/>ed together, and Rends theſe Intimate Companions from each others Embraces.</p>
+            <p n="2">2. A death of the Body. This is inſeparable from a death of the man; The <hi>Soul</hi> is the
+<pb n="20" facs="tcp:37082:11"/> 
+               <hi>Principle</hi> of the Bodies Life and Motion while it continues in it; and therefore when it takes it's flight from it, it ceaſes to be a <hi>living</hi> Creature, and becomes a <hi>lifeleſs lump</hi> of <hi>clay.</hi> This death of the Body conſiſts in a Ceſſa<g ref="char:EOLhyphen"/>tion of the <hi>Circulation</hi> of the Blood and Spirits, which are the <hi>Animal Soul</hi> of man. Thereby the Body is deprived of it's ſtrength and vigour, of it's Mo<g ref="char:EOLhyphen"/>tion and Activity, and of it's comelineſs and Beauty. Death makes a great alteration in this Curious ſtructure. It tyes the moſt voluble tongue, fetters the moſt active and nimble hands and feet; It introduces <hi>paleneſs</hi> into the moſt ruddy face, and dimneſs into the moſt <hi>ſparkling</hi> eyes.</p>
+            <p n="2">
+               <hi>2dly,</hi> I Proceed, to aſſign ſome general Reaſons why Miniſters
+<pb n="21" facs="tcp:37082:11"/> muſt die as well as other men.</p>
+            <p>In general, becauſe it is ap<g ref="char:EOLhyphen"/>pointed for <hi>all</hi> men once to die, <hi>Heb.</hi> 9.27. <hi>This is a ſtatute Law of Heaven, which never was, never will be repealed, but ſhall be fully executed.</hi> The Law is <hi>univerſal,</hi> and therefore none can <hi>plead</hi> an exemption from the ex<g ref="char:EOLhyphen"/>ecution of it. They who give Laws to men are ſubject to this Appointment of God.</p>
+            <p>No Priveledges either <hi>Tem<g ref="char:EOLhyphen"/>poral</hi> or <hi>ſpiritual,</hi> can give the Children of men a Protection from death's arreſt. If it be objected, that ſome have paſt by, not through the Gates of death, for <hi>Enoch</hi> was Tranſlated, and <hi>Elias</hi> mounted up to Heaven in a fiery <hi>Chariot;</hi> and they who remain alive upon Earth, at the coming of the Lord from Hea<g ref="char:EOLhyphen"/>ven, <hi>ſhall</hi> not ſleep but be chang<g ref="char:EOLhyphen"/>ed.
+<pb n="22" facs="tcp:37082:12"/> It may be replyed, that, ſome Particular exceptions do not deſtroy a <hi>general Rule;</hi> be<g ref="char:EOLhyphen"/>ſides, the foremention'd Perſons either did or <hi>ſhall undergo</hi> a change equivalent to a Death. But more Particularly, Miniſters muſt die as well as others.</p>
+            <p n="1">1. Becauſe, they as well as others deſcended from the firſt <hi>Adam,</hi> by <hi>whoſe tranſgreſſion</hi> death was entailed upon <hi>all</hi> his natural off-ſpring and Poſterity. In this one man, <hi>all</hi> ſinned, and therefore death paſſed upon <hi>all</hi> men, <hi>Rom.</hi> 5.12. <hi>That apple which our firſt Parents ate in Paradiſe, hath brought a fatal ſur<g ref="char:EOLhyphen"/>feit upon all their Posterity.</hi> Tho the Godly are delivered from a <hi>ſpiritual</hi> and <hi>eternal</hi> death, yet they are <hi>liable</hi> to a <hi>Temporal</hi> death: Tho they are delivered from <hi>Temporal</hi> death, as a <hi>Penal</hi>
+               <pb n="23" facs="tcp:37082:12"/> evil; yet they are liable to it as a natural evil. Death is not the effect of nature, but the fruit of ſin. Had man Perſevered in his holineſs; he <hi>ſhould</hi> have continu<g ref="char:EOLhyphen"/>ed in a ſtate of <hi>Immortality.</hi> Sin opened the door to let death into the world; for death en<g ref="char:EOLhyphen"/>ter'd by ſin, <hi>Rom.</hi> 5.12. Yea, it is obſervable that the ſentence of <hi>Temporal</hi> death paſs't upon man, Immediately after a deli<g ref="char:EOLhyphen"/>verance from <hi>ſpiritual</hi> and <hi>eter<g ref="char:EOLhyphen"/>nal</hi> death, by the ſeed of the Wo<g ref="char:EOLhyphen"/>man, was promiſed to him. And this ſentence began Immediate<g ref="char:EOLhyphen"/>ly to be executed, with reſpect to that neceſſity of Dying which man was brought under, and thoſe Bodily diſtempers, the ſeeds of which were then Introduced to him.</p>
+            <p n="2">2. That they may appear be<g ref="char:EOLhyphen"/>fore the Judge of <hi>all</hi> the Earth
+<pb n="24" facs="tcp:37082:13"/> to give an <hi>account of</hi> the <hi>Actions</hi> of their Lives to him. That Judgment which <hi>will</hi> enſue upon death, is <hi>one Reaſon of our Dying.</hi> We muſt depart out of Life, that we may appear before the Divine tribunal in the next Life. Miniſters are the ſubjects of the heavenly King, and <hi>therefore</hi> they muſt give an <hi>account</hi> to him as <hi>well</hi> as their hearers. We who declare and expound the Divine <hi>Law to you,</hi> preſs you to yeild obedience to it, muſt be Judged by this <hi>Law our ſelves,</hi> and come under a ſtrict exami<g ref="char:EOLhyphen"/>nation, with reſpect <hi>to our obſer<g ref="char:EOLhyphen"/>vation of, and obedience</hi> to it. We who perſwade <hi>you</hi> have, <hi>or ought to</hi> have, ſome <hi>knowledge of</hi> this part of the <hi>Lords terrours,</hi> even the future Judgment, as that which we are liable to our ſelves, <hi>Cor.</hi> 2.5, 10, and 11.</p>
+            <p n="3">
+               <pb n="25" facs="tcp:37082:13"/>3. I proceed to aſſign ſome ſpecial and particular Reaſons why Miniſters muſt die. And they will be ſuch as have a pe<g ref="char:EOLhyphen"/>culiar reference to their ſtation and employment.</p>
+            <p n="1">1. They muſt die that they may give an account how they have diſcharged that office which they are called to and that truſt that is Repoſed in them. Mini<g ref="char:EOLhyphen"/>ſters are ſtewards of the mani<g ref="char:EOLhyphen"/>fold grace of God, and there<g ref="char:EOLhyphen"/>fore muſt give an account of their ſtewardſhips. They have peculiar gifts beſtowed upon them to fit and qualifie them for their work; therefore they muſt give an account how they have Improved and laid them out in the ſervice of that <hi>Lord</hi> from whom they received them. Mi<g ref="char:EOLhyphen"/>niſters are Chriſt's <hi>Embaſſadours,</hi> whom he ſends to deliver the
+<pb n="26" facs="tcp:37082:14"/> meſſage of <hi>Life</hi> and ſalvation un<g ref="char:EOLhyphen"/>to Rebellious ſinners, and to treat with them about a <hi>Recon<g ref="char:EOLhyphen"/>ciliation</hi> to their offended <hi>Sove<g ref="char:EOLhyphen"/>raign.</hi> They muſt therefore Re<g ref="char:EOLhyphen"/>turn unto their <hi>Lord,</hi> to give an account how they, and their meſ<g ref="char:EOLhyphen"/>ſage, were received and enter<g ref="char:EOLhyphen"/>tained in and by the world; how they have managed and behav<g ref="char:EOLhyphen"/>ed themſelves in the execution of their office, and what ſucceſs their <hi>Embaſſy</hi> hath had. They are <hi>Labourers</hi> ſent to work in the Church which is God's vine<g ref="char:EOLhyphen"/>yard, and Husbandry, and therefore they muſt return to the maſter of the vineyard and the <hi>Lord</hi> of the harveſt; that they may give an account what work they have done therein. They are the ſhepherds wherewith Chriſt the great ſhepherd of the ſheep hath intruſted <hi>his</hi> little
+<pb n="27" facs="tcp:37082:14"/> flock; therefore <hi>they must give an account what care they have taken of them.</hi> They are <hi>Gods Watchmen,</hi> whom he appoints to <hi>watch over Souls,</hi> and therefore they muſt be accountable for 'em, <hi>Heb.</hi> 13.17. <hi>Obey them that have the rule over you, and ſubmit your ſelves for they watch for your ſouls as thoſe that must give an account, that they may do it with joy, and not with grief;</hi> for that is <hi>unpro<g ref="char:EOLhyphen"/>fitable</hi> for you. Tho all men <hi>have a great account to give,</hi> yet Mini<g ref="char:EOLhyphen"/>ſters have the greateſt.</p>
+            <p n="2">2. They muſt die, that they may be eaſed of thoſe <hi>burthens that lie upon them,</hi> and delivered from <hi>thoſe Troubles and Afflictions which they are frequently exerci<g ref="char:EOLhyphen"/>ſed with in this life.</hi> Indeed they are ſo many and great, that well might <hi>the Apostle</hi> ſay, 1 <hi>Cor.</hi> 15.19. <hi>If in this life only we have hope
+<pb n="28" facs="tcp:37082:15"/> in Chriſt, we are of all men most miſerable.</hi> We <hi>Chriſtians, of all men;</hi> we <hi>Miniſters, of all Chri<g ref="char:EOLhyphen"/>ſtians.</hi> I ſhall mention ſome of them, that you may ſee what <hi>cauſe</hi> you have to pity and pray for your Miniſters.</p>
+            <p n="1">1. <hi>The laboriouſneſs of their Work. Know them who labour a<g ref="char:EOLhyphen"/>mong you, and admoniſh you.</hi> 1 <hi>Theſ.</hi> 5.12. they who labour in the Word and Doctrine, 1 <hi>Tim.</hi> 5.17. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>who labour to wea<g ref="char:EOLhyphen"/>rineſs.</hi> It is a work that is atten<g ref="char:EOLhyphen"/>ded with much inward pleaſure and delight, to thoſe whoſe hearts are duly engaged in it; but yet much ſtudy and much preaching too, is a <hi>wearineſs to the Fleſh.</hi> It is a labour that ſpends the Vitals, and conſumes the Oil which ſhould preſerve the Lamp of Nature. It is ſuch a <hi>labour</hi> as makes <hi>Old Age</hi> and <hi>Youth</hi> often meet to<g ref="char:EOLhyphen"/>gether.
+<pb n="29" facs="tcp:37082:15"/> The <hi>Jews</hi> took Chriſt to be about 50 years Old, when he was little above 30, <hi>Joh.</hi> 8.57. and ſome aſſign this reaſon for it, <hi>that he had ſo enfeebled his body with his laborious exerciſes that he ſeem<g ref="char:EOLhyphen"/>ed older than he really was.</hi> Other Callings are but Exerciſes to Na<g ref="char:EOLhyphen"/>ture; but the Miniſters work de<g ref="char:EOLhyphen"/>bilitates Nature. The Miniſter, like <hi>the Candle,</hi> waſtes while he ſhines. But at death he reſts from his <hi>labours.</hi>
+            </p>
+            <p n="2">2. <hi>The diſcouragements which they meet with in their work.</hi>
+            </p>
+            <p n="1">1. <hi>From themſelves.</hi> How often have <hi>they aking hearts,</hi> and <hi>weep<g ref="char:EOLhyphen"/>ing eyes,</hi> when they conſider <hi>the weight, importance</hi> and <hi>difficulty of their work,</hi> and <hi>their own inſuf<g ref="char:EOLhyphen"/>ficiency for it?</hi> Says the <hi>Apoſtle, Who is ſufficient for theſe things?</hi> 2 <hi>Cor.</hi> 2.16. It is true, God hath promiſed to aſſiſt them; but
+<pb n="30" facs="tcp:37082:16"/> their <hi>faith</hi> is ſometimes at a low ebb, as well as the <hi>faith of others.</hi> When <hi>their faith is ſo unactive,</hi> that they cannot with <hi>this ſpiri<g ref="char:EOLhyphen"/>tual Eye</hi> behold an Omnipotent Arm <hi>ſtretcht forth for their ſupport,</hi> they are ready to ſink under <hi>their preſſure.</hi>
+            </p>
+            <p n="2">2. From others; Even thoſe who are profeſſed Friends to that work which they are enga<g ref="char:EOLhyphen"/>ged in.</p>
+            <p>How often are they reflected upon for <hi>their fidelity in the diſ<g ref="char:EOLhyphen"/>charge of their duty?</hi>
+            </p>
+            <p>How often are <hi>Profeſſors</hi> rea<g ref="char:EOLhyphen"/>dy to account <hi>Miniſters their E<g ref="char:EOLhyphen"/>nemies,</hi> becauſe they tell them <hi>the Truth?</hi> How apt are they to fly in their Faces, if they do but <hi>touch any of their Luſts with the Sword of the Spirit?</hi> How often are they deſerted by men for de<g ref="char:EOLhyphen"/>claring <hi>the whole Counſel of God!</hi>
+               <pb n="31" facs="tcp:37082:16"/> We have an inſtance of this in the great <hi>Apoſtle of our profeſſion,</hi> becauſe he preached a Doctrine which did not lie level with the carnal Reaſon of his Auditors <hi>Joh.</hi> 6. <hi>Many of his Diſciples from that time went back, and walked no more with him,</hi> 66. v. It is a great <hi>diſcouragement to labour hard, and not to have our labour accepted.</hi> It is true, we ſhould look above <hi>the diſpraiſe of men, to the praiſe of God;</hi> but <hi>Miniſters</hi> are imperfect men, and therefore cannot always do ſo.</p>
+            <p n="3">3. <hi>Their unſucceſsfulneſs in their work.</hi> They have many times oc<g ref="char:EOLhyphen"/>caſion to ſay with the Prophet, <hi>Who hath believed our report, and to whom is the arm of the Lord re<g ref="char:EOLhyphen"/>vealed, Iſa.</hi> 53.1. <hi>We have ſpread out our hands all the day long un<g ref="char:EOLhyphen"/>to a rebellious people, which walk<g ref="char:EOLhyphen"/>eth in a way that was not good, af<g ref="char:EOLhyphen"/>ter
+<pb n="32" facs="tcp:37082:17"/> their own thoughts, Iſa.</hi> 65.2. The Miniſters work is ſet forth by <hi>the pangs of a woman in tra<g ref="char:EOLhyphen"/>vail, Gal.</hi> 4.19. And who can tell the Throws that their ſouls feel, who all the time of their Mini<g ref="char:EOLhyphen"/>ſtry, or a great part of it, <hi>go in travail, and bring forth dead chil<g ref="char:EOLhyphen"/>dren at last?</hi> It is a trouble to any man to take a great deal of pains, and not to have his En<g ref="char:EOLhyphen"/>deavours crowned with ſucceſs. It muſt needs grieve theſe <hi>Fiſhers of men,</hi> to ſtand all the day long, and catch nothing. It cannot but trouble theſe <hi>Husbandmen</hi> to be continually ſowing, and yet ſee no Harveſt, or gathering in of Fruits: To preach themſelves in<g ref="char:EOLhyphen"/>to their Graves, and yet not preach others to Chriſt, muſt needs be a great affliction. They ſeek not yours, but you, 2 <hi>Cor.</hi> 12.14. They think not themſelves
+<pb n="35" facs="tcp:37082:17"/> ſucceſsful, if you give them a lit<g ref="char:EOLhyphen"/>tle <hi>wool from your backs,</hi> unleſs ye become <hi>Christ's Sheep.</hi>
+            </p>
+            <p n="4">4. <hi>The great oppoſition and per<g ref="char:EOLhyphen"/>ſecution which they meet with from the world. To be a Miniſter</hi> (ſaid <hi>Luther</hi>) <hi>is nothing elſe but to de<g ref="char:EOLhyphen"/>rive the world's wrath and fury upon himſelf.</hi> The <hi>He-Goats of the Flock</hi> are moſt furiouſly aſſaulted by thoſe <hi>Ravenous VVoolves who ſeek its deſtruction.</hi> The Leaders of the Chriſtian Army uſually bear the greateſt ſhock of the Enemies Rage. As the <hi>Syrians</hi> gave charge to fight <hi>neither with great nor ſmall, but with the King of Iſrael only;</hi> ſo ſometimes wick<g ref="char:EOLhyphen"/>ed men only bend their Forces againſt Chriſt's Miniſters.</p>
+            <p>T<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>children of darkneſs</hi> take the greateſt pains to extinguiſh <hi>the Lights of the world.</hi> Perſecu<g ref="char:EOLhyphen"/>tors uſually thirſt moſt eagerly
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="32" facs="tcp:37082:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="35" facs="tcp:37082:18"/>
+               <pb n="34" facs="tcp:37082:19"/> after <hi>the blood of Prophets.</hi> The Perſecution in <hi>Acts</hi> 12. begins with the murther of <hi>James.</hi> 7000 men could lie hid in <hi>Jezabel</hi>'s time better than <hi>one Prophet.</hi> Theſe are <hi>the burthenſom stones</hi> which al<g ref="char:EOLhyphen"/>moſt every one is lifting at; in almoſt every National Storm they are taken up to be thrown over board, for thoſe that raiſed it. They are treated as thoſe who turn <hi>the world upſide down.</hi> Wic<g ref="char:EOLhyphen"/>ked men think, that if once the <hi>Shepherd be removed, the Sheep will ſoon be ſcattered;</hi> That if once the Leaders of <hi>the Chriſtian Army</hi> be taken off, <hi>the Chriſtian Army will quickly be diſperſed.</hi> God will not ſuffer his Servants to be always labouring, toiling, and mourning in Affliction and Diſtreſs; and therefore by <hi>Death he delivers them therefrom.</hi>
+            </p>
+            <p n="3">3. <hi>Miniſters muſt die, that they
+<pb n="35" facs="tcp:37082:19"/> may receive the reward of their la<g ref="char:EOLhyphen"/>bours.</hi> It is true, Nothing that is done by us for God, deſerves a<g ref="char:EOLhyphen"/>ny thing at his hands. Could we perfectly anſwer <hi>the Requirements of the Divine Law,</hi> we muſt, when we have done all thoſe things which are commanded us, ſay, we <hi>are unprofitable ſervants;</hi> for we have done no more than it was our Duty to do, <hi>Luk.</hi> 17.10. But alas! how many flaws and defects are there in the beſt of our ſer<g ref="char:EOLhyphen"/>vices? and what a vaſt diſpropor<g ref="char:EOLhyphen"/>tion is there between Gods Law and our Obedience, in their Lati<g ref="char:EOLhyphen"/>tude and Extent? But God is pleaſed, in a way of condeſcen<g ref="char:EOLhyphen"/>tion, to give the Title of <hi>a Reward</hi> to that glory and felicity which he hath prepared and promiſed to his faithful ſervants, for their Encouragement in their Work. It is not a Reward of Debt, but
+<pb n="34" facs="tcp:37082:20"/> of Grace, according to that ex<g ref="char:EOLhyphen"/>cellent diſtinction of the Apoſtle, <hi>Rom</hi> 4.4. Tho conſcientious Mi<g ref="char:EOLhyphen"/>niſters find a great Reward in their Work, yet their greateſt re<g ref="char:EOLhyphen"/>ward is to be reciev'd when they have finiſht it. There is a <hi>Prophets reward,</hi> which is greater than that of <hi>a righteous man,</hi> as appears from <hi>Mat.</hi> 10.41. Tho we ſhall not be rewarded for, yet we ſhall be rewarded according to our works. <hi>VVhat we ſow that ſhall we alſo reap,</hi> not only as to kind, but alſo with reſpect to degree. The more ſervice any of us have done for God in this life, the greater will that recompence of Reward be which we ſhall receive from him in the next life. They that be wiſe, or they who by their in<g ref="char:EOLhyphen"/>ſtructions do inſtrumentally make others wiſe, (as the word properly ſignifies) <hi>ſhall ſhine as
+<pb n="37" facs="tcp:37082:20"/> the brightneſs of the Firmament; and they that turn many to righ<g ref="char:EOLhyphen"/>teouſneſs, as the Stars for ever and ever, Dan.</hi> 12.3. Theſe Husband-men who have laboured in God's Husbandry all the day long muſt go to their Maſter at night, that they may receive their Penny.</p>
+            <p>The Apoſtle <hi>Paul,</hi> when the time of his Departure was at hand, expreſt his aſſurance, that <hi>he was going to receive his Crown,</hi> 2 <hi>Tim</hi> 4, 6, 7, 8. I proceed now to <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>4th General.</hi> To give you ſome account of <hi>the Time when God u<g ref="char:EOLhyphen"/>ſually calls his Miniſters out of this world.</hi> In General, <hi>VVhen the time appointed for their continuance in this world is at an end, and he time appointed for their departure into another world is come.</hi> There is an appointed time to man upon <hi>earth;</hi> for ſuch an Affirmation is implied in that Interrogation, <hi>Job</hi>
+               <pb n="38" facs="tcp:37082:21"/> 7.1. We may well ſay of Miniſters in particular what <hi>Job</hi> affirms of Men in general, <hi>Their days are determined, the number of their months are with God, he hath ap<g ref="char:EOLhyphen"/>pointed their bounds, that they can<g ref="char:EOLhyphen"/>not paſs, Job</hi> 14.5. But more par<g ref="char:EOLhyphen"/>ticularly,</p>
+            <p n="1">1. <hi>VVhen their work is done.</hi> God hath allotted to every one of his ſervants ſome work to be done by him in this World, and till that is accompliſhed, he ſhall continue therein. Some Miniſters live lon<g ref="char:EOLhyphen"/>ger than others, becauſe God hath appointed them more work than others. It is true, many Miniſters have been called off from <hi>preach<g ref="char:EOLhyphen"/>ing work</hi> long before their <hi>diſſo<g ref="char:EOLhyphen"/>lution,</hi> but they have had other, it may be, <hi>ſuffering work</hi> cut out for them: God ſends them to a Priſon, or confines them to their Chambers or Beds, by the <hi>ſtrokes
+<pb n="39" facs="tcp:37082:21"/> of his hand,</hi> that they may <hi>glorifie him, and convince, inſtruct and ſtrengthen others, by their Chriſti<g ref="char:EOLhyphen"/>an fortitude and exemplary pati<g ref="char:EOLhyphen"/>ence.</hi> That Reverend Miniſter, whoſe <hi>Deceaſe</hi> occaſion'd this Diſcourſe, had a <hi>great deal of work to do for God in his decli<g ref="char:EOLhyphen"/>ning Age,</hi> which is evident from the many <hi>Seals which God gave to his Ministry, even towards the cloſe of it.</hi> When he had, as it were, <hi>one foot in the Grave,</hi> he was <hi>Instrumental</hi> to the <hi>Reſur<g ref="char:EOLhyphen"/>rection of many Dead Souls to a Spiritual Life.</hi> God put an end to his <hi>Miniſterial Work</hi> but a ve<g ref="char:EOLhyphen"/>ry little time before he <hi>call'd him to receive his Crown,</hi> which was a ſingular favour granted to this <hi>Venerable Old Man.</hi>
+            </p>
+            <p n="2">2. When their Meſſage is ge<g ref="char:EOLhyphen"/>nerally ſlighted and rejected. If they to whom an Embaſſadour
+<pb n="40" facs="tcp:37082:22"/> is ſent, by an <hi>earthly Prince,</hi> will not give him <hi>Audience,</hi> or re<g ref="char:EOLhyphen"/>fuſe to comply with thoſe <hi>Pro<g ref="char:EOLhyphen"/>poſals</hi> which he makes in his <hi>Master's Name;</hi> it is time for <hi>his Lord to recal him.</hi> God will not always ſuffer <hi>Miniſter<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> who are his <hi>Embaſſadours,</hi> to make <hi>Offers</hi> and <hi>Tenders of Sal<g ref="char:EOLhyphen"/>vation to poor ſinners,</hi> and intreat them to be <hi>reconciled to him</hi> in <hi>vain</hi> and to <hi>no purpoſe.</hi> When Men <hi>rebelliouſly</hi> ſtopt their Ears againſt his <hi>Goſpel Calls,</hi> and ſlights thoſe <hi>compaſionate Invita<g ref="char:EOLhyphen"/>ons</hi> which he gives them by his <hi>Prophets;</hi> he <hi>calls them home un<g ref="char:EOLhyphen"/>to himſelf.</hi>
+            </p>
+            <p n="3">3. When <hi>deſolating Judgments</hi> are haſtily <hi>advancing towards</hi> and make a near <hi>approach</hi> unto the <hi>places wherein they live Noah,</hi> that famous <hi>Preacher of righteouſ<g ref="char:EOLhyphen"/>neſs,</hi> enter'd into the <hi>Ark</hi> but a
+<pb n="41" facs="tcp:37082:22"/> 
+               <hi>few days before the old World was destroyed by the Deluge.</hi> God fre<g ref="char:EOLhyphen"/>quently calls his <hi>Servants</hi> into <hi>the Chambers of Death, when an overflowing ſcourge is coming.</hi> The ſetting of theſe <hi>Lights in the World</hi> portends a <hi>gloomy night.</hi> Theſe <hi>Righteous Men</hi> are often <hi>taken away from the Evil to come,</hi> tho few obſerve and lay it to heart.</p>
+            <p n="4">4. I ſhall now make ſome im<g ref="char:EOLhyphen"/>provement and Application of the whole. And that,
+<list>
+                  <item>1. <hi>By way of Information.</hi>
+                  </item>
+                  <item>2. <hi>By way of Exhortation.</hi>
+                  </item>
+                  <item>3. <hi>By way of Conſolation.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>By way of Information.</hi> 1. Are the Miniſters of Chriſt <hi>mortal men?</hi> then this may inform us, what cauſe we have to admire the <hi>goodneſs of God</hi> intreating with us by them. Should the great <hi>Jehovah</hi> treat with us im<g ref="char:EOLhyphen"/>mediately,
+<pb n="42" facs="tcp:37082:23"/> we ſhould be forc'd to ſay with the <hi>Iſraelites, Let not God ſpeak with us, leaſt we die,</hi> Exod. 20.19. Nor could we in our mortal ſtate bear to con<g ref="char:EOLhyphen"/>verſe with thoſe <hi>glorious Angels,</hi> who continually behold his <hi>face,</hi> and ſtand <hi>before his Auguſt Throne;</hi> but God, in compaſſion to our weakneſs, treats with us by men like our ſelves; ſuch, who tho they are in God's ſtead, are alſo form'd out of the Clay, <hi>whoſe terrour ſhall not make us afraid, neither ſhall their hand be heavy upon us,</hi> as <hi>Elihu</hi> ſays to <hi>Job,</hi> 33.6.7. who can, from the <hi>acquain<g ref="char:EOLhyphen"/>tance</hi> they have, will their own hearts tell us the <hi>baſeneſs</hi> of ours, and with whom we may <hi>converſe</hi> with the greateſt familiarity.</p>
+            <p n="2">2. Are Miniſters <hi>mortal men?</hi> This may inform us that we ought not to Idolize them; hon<g ref="char:EOLhyphen"/>our
+<pb n="43" facs="tcp:37082:23"/> and reſpect them we muſt, but Idolize them we muſt not, tho they are men highly digni<g ref="char:EOLhyphen"/>fied by God, yet they are <hi>mor<g ref="char:EOLhyphen"/>tal men still,</hi> tho they are <hi>ſent to proclaim the Promiſe of Everlaſt<g ref="char:EOLhyphen"/>ing Life,</hi> yet they are liable to a <hi>temporal Death.</hi> Tho the rich treaſures of <hi>Spiritual Gifts</hi> and <hi>Graces are pouer'd into theſe Veſ<g ref="char:EOLhyphen"/>ſels,</hi> yet they are but <hi>earthen ones, and will ſoon be broken by the blow of God's hand,</hi> tho theſe <hi>goards are very delightful to us,</hi> and we find great <hi>refreſhment in ſitting under their ſhadow,</hi> yet the <hi>worm of Death</hi> will ſoon make them to wither.</p>
+            <p n="3">3. <hi>Muſt Miniſters Die, and give an Account of their Ministry unto God?</hi> Then how di<g ref="char:EOLhyphen"/>ligent and laborious ſhould they be therein. Surely they ſhould endeavour to bring as much <hi>Glo<g ref="char:EOLhyphen"/>ry
+<pb n="44" facs="tcp:37082:24"/> to the reverend and holy Name of God,</hi> and to do as much good to the <hi>precious Souls of Men,</hi> as they can, while they Live, for when they Die, they can do no more, when Death hath ſeiſed upon them, they can no more <hi>proclaim the glad Tidings of Peace to the rebellious World;</hi> they can no more <hi>inform the Ig<g ref="char:EOLhyphen"/>norant, quicken the Slothful, con<g ref="char:EOLhyphen"/>vince Gain-ſayers, perſwade the Diſobedient, strengthen the Weak, or comfort the Diſconſolate.</hi> More<g ref="char:EOLhyphen"/>over, they ſhould be excited to Diligence in their Work, by that awful Account which they muſt give e're long to their Lord. Will a prudent Servant loyter in the day time, who knows that his Maſter will take an account of his Work at night? Oh! how little do ſome who enter on the <hi>work of the Miniſtry</hi> conſider that
+<pb n="45" facs="tcp:37082:24"/> dreadful Account that they have to give unto <hi>the Judg of all the Earth, when they depart out of this World.</hi> Miniſters muſt be accountable for thoſe <hi>Souls which are loſt by their unfaithfulneſs and negligence,</hi> as appears from <hi>Ezek.</hi> 33.6. And therefore the Apoſtle <hi>Paul</hi> charges <hi>Timothy to be dili<g ref="char:EOLhyphen"/>gent in his Work as he would an<g ref="char:EOLhyphen"/>ſwer it unto the Judg both of quick and dead, at his appearance and his Kingdom,</hi> 2 Tim. 4.1, 2.</p>
+            <p n="4">4. <hi>Muſt the Miniſters of the Goſpel die, and give an Account of their Ministry?</hi> Then how un<g ref="char:EOLhyphen"/>reaſonable is it for the People to be offended with them for their <hi>faithfulneſs</hi> and <hi>Eagerneſs in the diſcharge of it.</hi> It may be you are ready to think them too ſharp in reproving Sin, too earneſt in preſſing duty, and too ſevere in urging the threatnings of the
+<pb n="46" facs="tcp:37082:25"/> Divine Law, but conſider, they do it for their own ſakes, as well as for yours, that if they cannot <hi>deliver your Souls,</hi> yet they may <hi>deliver their own.</hi>
+            </p>
+            <p n="5">5. <hi>Muſt the Minister of the Goſpel Dye, that they may reſt from their labours, be eaſed of their Troubles, and receive their re<g ref="char:EOLhyphen"/>ward?</hi> Then it is a great peice of ſelf-denial in a Miniſter that is ſatisfied in his fitneſs for Death to be willing to Live. We have an inſtance of this in the Apoſtle <hi>Paul,</hi> who, tho upon his own Account, <hi>he deſired to de<g ref="char:EOLhyphen"/>part, and to be with Chriſt, yet for the ſake of the Church, he was willing to abide longer in the fleſh,</hi> 1 Phil. 23.24.</p>
+            <p n="2">2. <hi>By way of Exhortation,</hi> Have a care that you do not haſten the Death of your Mini<g ref="char:EOLhyphen"/>ſters. It is true their days are de<g ref="char:EOLhyphen"/>termined
+<pb n="47" facs="tcp:37082:25"/> by that God, in whoſe hand all our Times are; but you may be <hi>inſtrumental to ſhorten their Lives,</hi> and that not only <hi>by putting them to death, as wicked perſecutours have <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ften done, but by other means.</hi>
+            </p>
+            <p n="1">1. By <hi>over valuing of them.</hi> If you give that honour to them, which belongs only to the <hi>Lord of the Prophets,</hi> you will pro<g ref="char:EOLhyphen"/>voke him <hi>to take them away from you;</hi> if ye fall down and Worſhip theſe <hi>bright and glittering Stars,</hi> no wonder, if the <hi>Father of lights remove them from your ſight.</hi> If you advance them to <hi>God's Throne,</hi> he will quickly <hi>lay them in the duſt.</hi>
+            </p>
+            <p n="2">2. By undervaluing them, by ſlighting and contemning their Perſons, their Gifts, or their Meſ<g ref="char:EOLhyphen"/>ſage. If you do not prize your Mercies when you Enjoy them,
+<pb n="48" facs="tcp:37082:26"/> God will make you to know the worth of them in the want of them, if you deſpiſe God's Ambaſſadors, it is time for him to recal them. Moreover, here<g ref="char:EOLhyphen"/>by you will wound their <hi>Souls</hi> and break their <hi>Hearts;</hi> and why will you <hi>bring their heads with ſorrow to the grave,</hi> who have ſo great a regard to your welfare.</p>
+            <p n="2">2. Look upon your Living Miniſters as dying men: and that to theſe two ends and pur<g ref="char:EOLhyphen"/>poſes.</p>
+            <p n="1">1. That you may moderate your Affections towards them. The conſideration of the vanity and frailty of all created objects ſhould wean our Hearts and Af<g ref="char:EOLhyphen"/>fections from them, and this con<g ref="char:EOLhyphen"/>ſideration ſhould have the ſame influence upon us with reſpect to Goſpel Miniſters. Why ſhould
+<pb n="49" facs="tcp:37082:26"/> we ſet our eyes, our hearts up<g ref="char:EOLhyphen"/>on thoſe who are not? for they will ſoon take to themſelves wings and fly away from us into <hi>an inviſible world.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> that you may make the utmoſt <hi>improvement</hi> of them while they continue with you, <hi>endeavour</hi> to get as much good as you can from them <hi>while</hi> they live; for when they are once <hi>entered</hi> into the <hi>gloomy ſhades of Death,</hi> they can be no farther <hi>beneficial</hi> to you; they ſhall no more entreat you, <hi>Caution,</hi> or <hi>warn you,</hi> Counſel and <hi>admon<g ref="char:EOLhyphen"/>iſh</hi> you, <hi>comfort</hi> and <hi>encourage you,</hi> then they ſhall no more pray for or with you; as death ſtops the ear of the <hi>hearer,</hi> ſo it tyes the <hi>tongue</hi> of the preacher. Oh ſinners! Speedily accept of
+<pb n="50" facs="tcp:37082:27"/> thoſe offers of ſalvation which they make to you in their ma<g ref="char:EOLhyphen"/>ſters name, for you know not how <hi>ſoon</hi> their feet who bring theſe glad tidings may go <hi>down</hi> to the grave; it may be, when they are taken away from you; you will lament and bewail <hi>your miſimprovement</hi> of 'em; 'tis rare that we prize what we have, till we have it not; and we ſeldom know the worth of a mercy, till we experience the want of it.</p>
+            <p>Furthermore, conſider that as your Miniſters muſt appear be<g ref="char:EOLhyphen"/>fore the Divine Bar, to give an account of their Miniſtry; ſo you muſt appear there to give an account of your attendance on it; if you reject their Meſ<g ref="char:EOLhyphen"/>ſages, they will come in as <hi>evi<g ref="char:EOLhyphen"/>dences</hi>
+               <pb n="51" facs="tcp:37082:27"/> againſt you in the <hi>Day of Judgment;</hi> ſays the Apoſtle, <hi>Do ye not know that the Saints ſhall judg the World?</hi> 1 Cor. 6.2. and Miniſters ſhall, with other <hi>Saints, judg the World,</hi> not only <hi>Com<g ref="char:EOLhyphen"/>municatively</hi> and <hi>Participatively</hi> in <hi>Christ</hi> their <hi>myſtical Head,</hi> and <hi>approbatively</hi> with reſpect unto that Aſſent which they ſhall give unto <hi>Chriſt's Sentence,</hi> but alſo <hi>teſtificatively,</hi> by becom<g ref="char:EOLhyphen"/>ing Witneſſes againſt them. How dreadful a thing will it be for thoſe very <hi>Miniſters who now plead with God for you;</hi> and with you for your own Souls, to be<g ref="char:EOLhyphen"/>come Advocates for the <hi>Law</hi> and <hi>Justice</hi> of <hi>God</hi> againſt you? what horror will ſeiſe upon you? how inexcuſable will you be left, when they ſhall ſay, <hi>Lord, theſe are the Men upon
+<pb n="52" facs="tcp:37082:28"/> whom we ſpent our time and our ſtrength, whom we taught and ad<g ref="char:EOLhyphen"/>moniſhed in ſeaſon and out of ſea<g ref="char:EOLhyphen"/>ſon; for the Salvation of whoſe Souls we deſtroyed our own Bo<g ref="char:EOLhyphen"/>dies; we Preached to them with the greateſt ſeriouſneſs, and per<g ref="char:EOLhyphen"/>ſwaded them with the greatest im<g ref="char:EOLhyphen"/>portunity, as if our own Salvati<g ref="char:EOLhyphen"/>on had depended upon the work<g ref="char:EOLhyphen"/>ing out of theirs; we were as</hi> Bo<g ref="char:EOLhyphen"/>anerges, <hi>ſons of Thunder, pro<g ref="char:EOLhyphen"/>claiming to them the Terrors of a Fiery Law; and like</hi> Barnabas, <hi>ſons of Conſolation, declareing to them the bleſſings of the everlaſt<g ref="char:EOLhyphen"/>ing Goſpel; we ſet before them Life and Death, Bleſſing and Curſing, but they were like the deaf Adder, which ſtops her Ears at the Voice of the Charmer, charm he never ſo wiſely. There<g ref="char:EOLhyphen"/>fore, O Lord! we acknowledg they
+<pb n="53" facs="tcp:37082:28"/> deſerve the heaviest strokes of Vindictive Juſtice.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> When God hath ta<g ref="char:EOLhyphen"/>ken away any of his Faithful Miniſters, be not inſenſible of the ſtroke; tho we muſt not murmur at it, yet we ought to Mourn for it. Shall not we lie in the duſt, when the Crown is fallen from our heads? ſhall the Lights of the World be remov<g ref="char:EOLhyphen"/>ed, and we put no Sack cloath on our Loyns? Let us conſider whether our ſins have not oc<g ref="char:EOLhyphen"/>caſion'd the removal of Gods Prophets; and if they have, let us ſpeedily repent of them, and turn from them, leaſt we pro<g ref="char:EOLhyphen"/>voke God farther to ſtretch out his hand, and take more Labour<g ref="char:EOLhyphen"/>ers out of his vineyard.</p>
+            <pb n="54" facs="tcp:37082:29"/>
+            <p>If one Affliction do's not re<g ref="char:EOLhyphen"/>form us, we muſt expect ano<g ref="char:EOLhyphen"/>ther will quickly tread upon its heels.</p>
+            <p>
+               <hi>Fourthly,</hi> When God hath ta<g ref="char:EOLhyphen"/>ken away any of your Mini<g ref="char:EOLhyphen"/>ſters, endeavour to recollect and retain thoſe <hi>excellent truths which were delivered by them,</hi> while they went in and out be<g ref="char:EOLhyphen"/>fore you. Let me perſwade you who attend <hi>upon this Lecture,</hi> to call to mind thoſe <hi>bleſſed Truths which that faithful Servant of God,</hi> who once ſpake to you <hi>in the Name of the Lord</hi> (but is now enter'd <hi>into the place of ſi<g ref="char:EOLhyphen"/>lence</hi>) delivered to you therein; and endeavour to <hi>reduce them unto practiſe.</hi> Tho he is Dead, <hi>the word of the Lord Lives and abides for ever.</hi> Thoſe <hi>Counſels</hi>
+               <pb n="55" facs="tcp:37082:29"/> which he gave you from the word of God, do oblige you, <hi>tho he is bound with the chains of Death.</hi>
+            </p>
+            <p>
+               <hi>Fifthly.</hi> When your Mini<g ref="char:EOLhyphen"/>ſters are taken away by Death, <hi>conſider what things were com<g ref="char:EOLhyphen"/>mendable in them, and endeav<g ref="char:EOLhyphen"/>our an Imitation of them there<g ref="char:EOLhyphen"/>in.</hi> It is true, the <hi>beſt of them had their failings and imperfecti<g ref="char:EOLhyphen"/>ons: Moſes</hi> and <hi>Elias</hi> were men ſubject to the <hi>like paſſions as we are;</hi> the moſt <hi>Eminent Saints</hi> are to be followed by us, no farther than they followed <hi>Chriſt;</hi> but when they are gone, all their <hi>failings ſhould be buried with them,</hi> and their <hi>Excellen<g ref="char:EOLhyphen"/>cies</hi> ſhould be kept <hi>alive in our Memory,</hi> in order <hi>to our imitati<g ref="char:EOLhyphen"/>on of them;</hi> and indeed there
+<pb n="56" facs="tcp:37082:30"/> were ſeveral things of this na<g ref="char:EOLhyphen"/>ture <hi>obſervable in this Reverend Old Man.</hi>
+            </p>
+            <p n="1">1. His accurate and circum<g ref="char:EOLhyphen"/>ſpect walking. I do not ſay, that he was wholly free from ſin (ſin<g ref="char:EOLhyphen"/>leſs perfection is unattainable in a mortal ſtate) but yet he was one who carefully endeavour'd to avoid it. He, with the Apoſtle <hi>Paul did herein exerciſe himſelf to have always a conſcience void of Offence, towards God and to<g ref="char:EOLhyphen"/>wards men.</hi>
+            </p>
+            <p>He walked with that caution, that his greateſt Enemies had no<g ref="char:EOLhyphen"/>thing againſt him, ſave only in the matters of his God; That ho<g ref="char:EOLhyphen"/>ly Life which he lived, did com<g ref="char:EOLhyphen"/>mand Reverence even from thoſe who were Enemies to the holy
+<pb n="57" facs="tcp:37082:30"/> Doctrine which he preached. He was a <hi>Preacher out of the Pulpit as well as in it.</hi> Not like thoſe who preſs the Form of godlineſs on <hi>a Lord's Day, and openly deny the power of it the remainder of the week;</hi> who <hi>pluck down that in their Converſations which they build up in their Pulpits.</hi>
+            </p>
+            <p n="2">2. His <hi>univerſal love to Chriſti<g ref="char:EOLhyphen"/>ans.</hi> He had a great reſpect to <hi>Chriſt's New Commandment which he gave to his Diſciples, to love one another.</hi> He <hi>loved the I<g ref="char:EOLhyphen"/>mage of God whereſoever he ſaw it.</hi> He was not a man of a narrow and private, but of <hi>a large and publick ſpirit.</hi> The <hi>difference of his fellow Christians Opinions from his did not alienate his affections from them.</hi> He <hi>lov'd all his fellow Travellers, tho they did not walk
+<pb n="58" facs="tcp:37082:31"/> in the ſame particular path with himſelf.</hi> He embrac'd thoſe in the Arms of his Love upon <hi>Earth,</hi> with whom he thought he ſhould joyn in <hi>ſinging the Song of the Lamb in Heaven.</hi> It would be well if not <hi>only private Chri<g ref="char:EOLhyphen"/>ſtians, but alſo Miniſters did imi<g ref="char:EOLhyphen"/>tate him therein;</hi> there would not then be that ſourneſs of ſpirit which is too often (with grief be it ſpoken) found among them.</p>
+            <p n="3">3. His meekneſs and humility. He was not of a <hi>proud and lofty Temper,</hi> but <hi>like that Maſter whom he profeſs'd to ſerve, meek and low<g ref="char:EOLhyphen"/>ly.</hi> He was willing to bear with and forbear others. To ſtoop and condeſcend to others, and to paſs by thoſe injuries which he re<g ref="char:EOLhyphen"/>ceived from them.</p>
+            <p n="4">
+               <pb n="59" facs="tcp:37082:31"/>4. <hi>His laboriouſneſs in that work which he was engaged in.</hi> He was not <hi>a loyterer,</hi> but <hi>a labourer.</hi> He was <hi>willing to ſpend and t<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be ſpent in the ſervice of his Lord, and for the good of poor ſouls.</hi> It is true, Old Age and Youth did as it were meet in him: God had bleſs'd him with an extraordi<g ref="char:EOLhyphen"/>nary meaſure of <hi>bodily ſtrength;</hi> and he was not <hi>an unfaithful Steward of this Talent wherewith God had entruſted him; yea, when his fleſh and his heart ſeemed to fail;</hi> when his fleſh was <hi>ſo weak that he could hardly bear to ſtand in a Pulpit,</hi> and <hi>his Voice ſo low that he could ſcarcely be heard, his affestions were ſo much engaged in his work</hi> that he was <hi>very unwil<g ref="char:EOLhyphen"/>ling to leave it.</hi>
+            </p>
+            <p n="5">5. <hi>His couragious and chearful
+<pb n="60" facs="tcp:37082:32"/> ſuffering for his Masters and the Goſpels ſake.</hi> He chearfully went about ſuffering as well as prea<g ref="char:EOLhyphen"/>ching work: He was <hi>not unwil<g ref="char:EOLhyphen"/>ling to take up his croſs and fol<g ref="char:EOLhyphen"/>low his Lord and Maſter in the Thorny Road of Tribulation.</hi>
+            </p>
+            <p>In theſe things let us imitate and <hi>follow the Example of this holy man, who I queſtion not is gone to the Aſſembly of the firſt born; to that glorious Company of Prophets, who having finiſhed their work on Earth, are wearing their Crowns in Heaven.</hi>
+            </p>
+            <p n="6">6. <hi>When</hi> Miniſters are taken away, <hi>beg of God to raiſe up o<g ref="char:EOLhyphen"/>thers in their ſtead.</hi> When God calls any Labourers out of his Vineyard, earneſtly cry to the Lord of the Harveſt, that he
+<pb n="61" facs="tcp:37082:32"/> would thruſt out more Labour<g ref="char:EOLhyphen"/>ers into it.</p>
+            <p>That there may be a ſuc<g ref="char:EOLhyphen"/>ceſſion of Miniſters, who may rightly divide the Word, and faithfully break the Bread of Life to you, and to your Po<g ref="char:EOLhyphen"/>ſterity, when your places ſhall know you no more.</p>
+            <p>
+               <hi>Thirdly,</hi> By way of <hi>Conſola<g ref="char:EOLhyphen"/>tion</hi> to the <hi>Saints.</hi>
+            </p>
+            <p>
+               <hi>Firſt, With reſpect to their own Death.</hi> It may be you are ready to go all your life<g ref="char:EOLhyphen"/>time in Bondage for <hi>fear of Death,</hi> the thoughts of <hi>your Diſſolution are troubleſome to you;</hi> but conſider that you go the ſame way that the moſt Eminent Servants of God,
+<pb n="62" facs="tcp:37082:33"/> who have been, and are in the higheſt Place and Office in the Church, either have gone, or muſt go: You are going to the <hi>Glorious Society of God's Prophets,</hi> who are <hi>made Perfect in Holineſs and in Happineſs.</hi> Death will Tranſlate you from the Mi<g ref="char:EOLhyphen"/>litant Church upon Earth, to the Church Triumphant in Heaven.</p>
+            <p>
+               <hi>Secondly, With reſpect to the Death of your Miniſters.</hi> It is an <hi>Affliction,</hi> but yet it ad<g ref="char:EOLhyphen"/>mits of <hi>Conſolation;</hi> and that upon theſe three following Accounts.</p>
+            <p>
+               <hi>First,</hi> Tho it be your Loſs, yet it is their gain. <hi>For me to live is Chriſt, and to die is
+<pb n="63" facs="tcp:37082:33"/> gain,</hi> ſays great Miniſter of the Uncircumciſion, 1 <hi>Phil.</hi> 21. They are only gone to exchange <hi>mortality,</hi> for a <hi>glo<g ref="char:EOLhyphen"/>rious Immortality,</hi> a <hi>heavy Croſs,</hi> for a <hi>ponderous</hi> and <hi>ne<g ref="char:EOLhyphen"/>ver fading Crown,</hi> a <hi>Pulpit</hi> wherein they Laboured for Chriſt; for a Triumphant Throne whereon they ſhall Eternally Reign with him Could they who are Re<g ref="char:EOLhyphen"/>joycing above, ſpeak to you who are Mourning below, they would ſay to you, as our Lord did unto the Wo<g ref="char:EOLhyphen"/>men who followed him to the Croſs, <hi>Luke</hi> 23.28. <hi>Weep not for me, but for your ſelves.</hi> Weep not for us, who are come to our Journeys end, but weep for your ſelves, who are ſtill Travelling thro'
+<pb n="64" facs="tcp:37082:34"/> a waft and howling Wilder<g ref="char:EOLhyphen"/>neſs. Weep not for us who reſt from our Labours; but weep for your ſelves, who are ſtill <hi>Labouring and Toyl<g ref="char:EOLhyphen"/>ing.</hi> Weep not for us who are ſafely Arrived at the Ha<g ref="char:EOLhyphen"/>ven of Reſt, and the Port of Bleſſedneſs; but weep for your ſelves, who are toſt to and fro upon a Tempeſtuous Sea. Weep not for us, who ſtand upon a Mount of Tri<g ref="char:EOLhyphen"/>umph, and have obtained a Compleat Victory over All Our Enemies; but weep for your ſelves, who are ſtill in a Field of War, Wreſtling not only with <hi>Fleſh and Blood, but with Principalities and Powers.</hi>
+            </p>
+            <pb n="65" facs="tcp:37082:34"/>
+            <p>
+               <hi>Secondly, God can ſupply their Places, and make up your Loſs, by Raiſing up o<g ref="char:EOLhyphen"/>thers.</hi>
+            </p>
+            <p>When <hi>Moſes</hi> Dyed, the Lord ſent <hi>Joſhuah</hi> to <hi>Lead Iſrael</hi> into the <hi>Land</hi> of <hi>Canaan.</hi> Is <hi>Elijah</hi> gone to Heaven? The Reſidue of the Spirit is with God; and he can cauſe a Double Portion of it to reſt upon <hi>Eliſha.</hi>
+            </p>
+            <p>When God hath Work to do, he will never want In<g ref="char:EOLhyphen"/>ſtruments: He can perfect Praiſe out of the Mouths of Babes and Sucklings; and make even a perſecuting <hi>Saul</hi> to become a preaching <hi>Paul.</hi>
+            </p>
+            <pb n="66" facs="tcp:37082:35"/>
+            <p>
+               <hi>Thirdly,</hi> E're long you ſhall meet them never more to be ſeparated from them. 'Twill be but a few Days e're you ſhall enjoy their So<g ref="char:EOLhyphen"/>ciety, in a more Glorious Place than this.</p>
+            <p>Oh! What Greetings will there be between you and your Faithful Miniſters, when you are entered into the Joy of your Lord! Then ſhall you who Worſhipped God together with them, upon Earth, Joyn with them in a Triumphant Song of Praiſe, <hi>to him that ſits upon the Throne and to the Lamb for e<g ref="char:EOLhyphen"/>vermore, in Heaven.</hi> Ye ſhall then ſee the Great Pro<g ref="char:EOLhyphen"/>phet, our <hi>Lord Jeſus Chriſt,</hi>
+               <pb n="67" facs="tcp:37082:35"/> ſitting upon a Majeſtick Throne, and all the other Prophets, like ſo many bright Stars, compaſſing about this Son of Righteouſneſs for ever and ever.</p>
+         </div>
+         <div type="hymn">
+            <pb facs="tcp:37082:36"/>
+            <pb n="69" facs="tcp:37082:36"/>
+            <head>AN HYMN Compoſed and ſung on the ſame Occaſion.</head>
+            <lg>
+               <l>ALL <hi>Adam</hi>'s Children once muſt die,</l>
+               <l>Deaths fatal ſtroke will ſever</l>
+               <l>Their bodies from their ſouls ſurely;</l>
+               <l>Prophets don't live for ever.</l>
+            </lg>
+            <lg>
+               <l>Theſe bright illuſtrious Stars muſt fall</l>
+               <l>into a bed of duſt.</l>
+               <l>God will his Meſſengers re-call,</l>
+               <l>tho Prophets die they muſt.</l>
+            </lg>
+            <lg>
+               <l>Then ſhall they enter into Reſt</l>
+               <l>who here have labour'd hard.</l>
+               <l>They muſt die, that they way be bleſt</l>
+               <l>with a prophets reward.</l>
+            </lg>
+            <lg>
+               <pb n="70" facs="tcp:37082:37"/>
+               <l>Our ſins do oft times God provoke,</l>
+               <l>to take theſe Lights away.</l>
+               <l>When prophets do fall by deaths stroke,</l>
+               <l>expect a gloomy day.</l>
+            </lg>
+            <lg>
+               <l>Oh Lord! us unto <hi>Canaan</hi> bring,</l>
+               <l>that with thy prophets we</l>
+               <l>May Joyful <hi>hallelujahs</hi> ſing</l>
+               <l>unto Eternity.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:37082:37"/>
+            <head>ERRATA.</head>
+            <p>PAge 9, line 12, dele <hi>and,</hi> p. 33, l. 21, r. <hi>the,</hi> p. 40, l. 13. f. <hi>ſtopt,</hi> r. <hi>ſtop,</hi> l. 15, f. <hi>ſlights,</hi> r. <hi>ſlight.</hi>
+            </p>
+            <p>Several ſmall miſtakes the reader is de<g ref="char:EOLhyphen"/>ſired to correct with his Pen.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
